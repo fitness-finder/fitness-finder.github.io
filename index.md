@@ -63,7 +63,7 @@ The following sections document the development history of fitness finder.
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Grayson Levy](https://glevy94.github.io), .
+fitness finder is designed, implemented, and maintained by [Grayson Levy](https://glevy94.github.io), [Tanner Young](https://tanner-ky.github.io), [Nika Yadav](https://bhavanikay.github.io/), [Devin Arquines](https://darquines.github.io).
 
 
 

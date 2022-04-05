@@ -1,5 +1,4 @@
 # Ignore IntelliJ Project files.
-*.xml
 *.iml
 .idea/
 

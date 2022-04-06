@@ -1,1 +1,8 @@
+title: Fitness Finder
+description: A social network to connect with other people and find fitness activities
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

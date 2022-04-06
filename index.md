@@ -1,4 +1,4 @@
-# Fitness Finder
+
 ## Table of contents
 
 * [Overview](#overview)

@@ -1,3 +1,4 @@
+# Fitness Finder
 ## Table of contents
 
 * [Overview](#overview)
@@ -44,7 +45,7 @@ The following sections document the development history of fitness finder.
 
 ### Milestone 2: Data model development
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 ## Example enhancements
 

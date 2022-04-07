@@ -3,3 +3,6 @@ description: A social network to connect with other people and find fitness acti
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/fitness-finder/fitness-finder

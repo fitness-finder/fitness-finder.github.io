@@ -1,5 +1,5 @@
+Welcome to the Fitness Finder home page!
 
-testing
 ## Table of contents
 
 * [Overview](#overview)

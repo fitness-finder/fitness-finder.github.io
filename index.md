@@ -1,5 +1,3 @@
-<h1 align="center">Fitness Finder</h1>
-
 ## Table of contents
 
 * [Overview](#overview)

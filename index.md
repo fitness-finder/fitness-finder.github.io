@@ -53,7 +53,7 @@ The development process for fitness finder conformed to [Issue Driven Project Ma
 The following sections document the development history of fitness finder.
 
 ### Milestone 1: Mockup development
-
+[Project board](https://github.com/fitness-finder/fitness-finder/projects/1)
 ### Milestone 2: Data model development
 
 ### Milestone 3: Final touches
@@ -62,6 +62,8 @@ The following sections document the development history of fitness finder.
 
 
 ## Team
+
+[Team contract](https://docs.google.com/document/d/1m8LsO8nmDOwIHj3Ud4k8p5zBMpd8c0i3dL2BMquQafE/edit)
 
 fitness finder is designed, implemented, and maintained by [Grayson Levy](https://glevy94.github.io), [Tanner Young](https://tanner-ky.github.io), [Nika Yadav](https://bhavanikay.github.io/), [Devin Arquines](https://darquines.github.io).
 

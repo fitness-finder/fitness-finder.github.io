@@ -55,7 +55,7 @@ The following sections document the development history of fitness finder.
 ### Milestone 1: Mockup development
 [Project board](https://github.com/fitness-finder/fitness-finder/projects/1)
 ### Milestone 2: Data model development
-
+[M2 Project Board](https://github.com/fitness-finder/fitness-finder/projects/2)
 ### Milestone 3: Final touches
 
 ## Example enhancements

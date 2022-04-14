@@ -37,7 +37,7 @@ In Development
 ![](images/findsessionpage.png)
 
 ### Add a session
-![](images/addsessionpage.png)
+![](images/addsessionpage2.png)
 
 ## Development History
 

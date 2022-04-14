@@ -28,7 +28,8 @@ Fitness Finder is a website that UH students can use to find fitness-related act
 ![](images/landingpage2.png)
 
 ### Profile page
-In development 
+![](images/profilepage.png)
+
 ### Profile update page
 ![](images/profileupdatepage.png)
 

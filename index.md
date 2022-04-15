@@ -9,6 +9,9 @@ Welcome to the Fitness Finder home page!
 
 ## Overview
 
+### Deployment: 
+
+http://143.110.235.118/
 
 ### Problem: 
 

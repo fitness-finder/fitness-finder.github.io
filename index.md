@@ -3,7 +3,7 @@ Welcome to the Fitness Finder home page!
 ## Table of contents
 
 * [Overview](#overview)
-* [Mockup pages](#Mockup pages) 
+* [Mockup pages](#mockup-pages) 
 * [Development History](#development-history)
 * [Team](#team)
 * [Deployment](#deployment)
@@ -65,7 +65,7 @@ The following sections document the development history of fitness finder.
 
 ## Example enhancements
 
-##Organization
+## Organization
 
 This project has been created under the organization Fitness Finder. [Check us out!](https://github.com/fitness-finder)
 

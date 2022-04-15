@@ -6,12 +6,9 @@ Welcome to the Fitness Finder home page!
 * [Mockup pages](#Mockup pages) 
 * [Development History](#development-history)
 * [Team](#team)
-
+* [Deployment](#deployment)
+* [Organization](#organization)
 ## Overview
-
-### Deployment: 
-
-http://143.110.235.118/
 
 ### Problem: 
 
@@ -28,23 +25,23 @@ Fitness Finder is a website that UH students can use to find fitness-related act
 
 ## Mockup Pages
 ### Landing page
-![](images/landingpage2.png)
+![](images/landingpage3.png)
 
 ### Profile page
-In Development
+![](images/profilepage.png)
 
-### Profile update page
+### Your Profile page
 ![](images/profileupdatepage2.png)
 
 ### Find a session page
-Mockup:
-![](images/findsessionpage.png)
-
-Current State:
-![](images/sessionspage.png)
+![](images/sessionpage2.png)
 
 ### Add a session
 ![](images/addsessionpage2.png)
+
+## Deployment:
+
+Our App can be accessed [here](http://143.110.235.118/). While still in progress this is our most current version.
 
 ## Development History
 
@@ -61,13 +58,16 @@ The development process for fitness finder conformed to [Issue Driven Project Ma
 The following sections document the development history of fitness finder.
 
 ### Milestone 1: Mockup development
-[Project board](https://github.com/fitness-finder/fitness-finder/projects/1)
+[M1 Project board](https://github.com/fitness-finder/fitness-finder/projects/1)
 ### Milestone 2: Data model development
 [M2 Project Board](https://github.com/fitness-finder/fitness-finder/projects/2)
 ### Milestone 3: Final touches
 
 ## Example enhancements
 
+##Organization
+
+This project has been created under the organization Fitness Finder. [Check us out!](https://github.com/fitness-finder)
 
 ## Team
 

@@ -37,7 +37,11 @@ In Development
 ![](images/profileupdatepage2.png)
 
 ### Find a session page
+Mockup:
 ![](images/findsessionpage.png)
+
+Current State:
+![](images/sessionspage.png)
 
 ### Add a session
 ![](images/addsessionpage2.png)

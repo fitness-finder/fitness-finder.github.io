@@ -41,7 +41,7 @@ Fitness Finder is a website that UH students can use to find fitness-related act
 
 ## Deployment:
 
-Our App can be accessed [here](http://143.110.235.118/). While still in progress this is our most current version.
+Our App can be accessed [here](https://fitness-finder.xyz/#/). While still in progress this is our most current version.
 
 ## Development History
 

@@ -38,7 +38,7 @@ The first thing users see when using the URL for the site.
 
 The profiiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined.
 
-![](images/ProfilePage2.png)
+![](images/profilespage3.png)
 
 ### Your Profile page
 

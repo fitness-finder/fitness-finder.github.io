@@ -3,11 +3,12 @@ Welcome to the Fitness Finder home page!
 ## Table of contents
 
 * [Overview](#overview)
-* [Mockup pages](#mockup-pages) 
-* [Development History](#development-history)
-* [Team](#team)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
+* [Development History](#development-history)
 * [Organization](#organization)
+* [Team](#team)
 ## Overview
 
 ### Problem: 
@@ -23,21 +24,62 @@ Our solution to this is the “Fitness Finder” website which helps connect the
 Fitness Finder is a website that UH students can use to find fitness-related activities as well as workout buddies in their area. Whether you are a beginner or a pro, Fitness Finder allows you to broaden your fitness horizons. The main focus of this website is to be able to create a community of students who are interested in furthering their fitness journeys and provide a safe space for them to connect with one another. Starting with creating a profile, users can list their skill level, fitness-related interests, general location,  a picture of themselves, as well as any additional details they might feel the need to include. Once their profile is created, users can create a group for a specific workout session or activity, post to existing groups, or scroll through groups they are interested in. From swimming to roller skating, users have the option of leaving their comfort zone and trying out something new, or honing the skills they already have with others. There is also the option of being matched up with a random workout buddy/group, in the “Random'' tab. Fitness Friends can be used as a networking tool in order to meet people with similar interests that a user hasn’t met before, as well as a way to try new activities that a user may not have thought was available to them. Any important events or workshops will be noted on the calendar.
 
 
-## Mockup Pages
+## User Guide
+
 ### Landing page
+
+The first thing users see when using the URl for the site.
+
 ![](images/landingpage3.png)
 
 ### Profile page
+
+The profiiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined.
+
 ![](images/ProfilePage2.png)
 
 ### Your Profile page
+
+After creating their profile, your profile page shows your current profile, and is capable of updating your profile.
+
 ![](images/profileupdatepage3.png)
 
 ### Find a session page
+
+Find a session page shows sessions that are available to join. Users can see a description of the session, who made the session, any participants for that session, and are able to join sessions from this page.
+
 ![](images/SessionPage2.png)
 
 ### Add a session
+
+Add a session page allows users to create their own session.
+
 ![](images/AddSessionPage3.png)
+
+
+
+## Developer Guide
+
+### Installation
+First, install [Meteor](https://www.meteor.com/install).
+
+Next, go to the [Fitness Finder application github page](https://github.com/fitness-finder/fitness-finder) and make a copy of the repo to your local computer.
+
+Then, cd into the fitness-finder/app directory and use:
+
+```
+meteor npm install
+```
+
+And finally, run the system with:
+
+```
+meteor npm run start
+```
+
+If everything is good, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+
 
 ## Deployment:
 
@@ -64,6 +106,10 @@ The following sections document the development history of fitness finder.
 ### Milestone 3: Final touches
 
 ## Example enhancements
+
+* Implement a text mesasge interface
+* Implement an “I’m feeling lucky button” where the user is given a random public session as a suggestion for a given time
+* When creating a workout session the creator has an option to make it public or private, allowing them to choose who can see it or not
 
 ## Organization
 

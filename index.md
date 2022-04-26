@@ -36,7 +36,7 @@ The first thing users see when using the URL for the site.
 
 ### Profile page
 
-The profiiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined.
+The profiiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. Users have the ability to filter through profiles based on one or more interests.
 
 ![](images/profilespage3.png)
 

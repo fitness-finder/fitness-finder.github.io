@@ -104,6 +104,7 @@ The following sections document the development history of fitness finder.
 ### Milestone 2: Data model development
 [M2 Project Board](https://github.com/fitness-finder/fitness-finder/projects/2)
 ### Milestone 3: Final touches
+[M3 Project Board](https://github.com/fitness-finder/fitness-finder/projects/3)
 
 ## Example enhancements
 

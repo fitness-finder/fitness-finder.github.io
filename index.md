@@ -1,4 +1,5 @@
-Welcome to the Fitness Finder home page!
+Welcome to the Fitness Finder home page! You can find out site running at https://fitness-finder.xyz/#/
+
 
 ## Table of contents
 
@@ -10,6 +11,7 @@ Welcome to the Fitness Finder home page!
 * [Organization](#organization)
 * [Team](#team)
 ## Overview
+
 
 ### Problem: 
 

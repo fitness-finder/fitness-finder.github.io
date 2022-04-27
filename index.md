@@ -93,7 +93,7 @@ Our App can be accessed [here](https://fitness-finder.xyz/#/). While still in pr
 Fitness Finder uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/fitness-finder/fitness-finder/actions](https://github.com/fitness-finder/fitness-finder/actions).
 
 The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/master/.github/workflows/ci.yml).
+[.github/fitness-finder/ci.yml](https://github.com/fitness-finder/fitness-finder/blob/master/.github/workflows/ci.yml).
 
 
 ## Development History

@@ -1,4 +1,4 @@
-Welcome to the Fitness Finder home page! You can find out site running at https://fitness-finder.xyz/#/
+Welcome to the Fitness Finder home page! You can find out site running here: [Digital Ocean Deployment](https://fitness-finder.xyz/#/)
 
 
 ## Table of contents

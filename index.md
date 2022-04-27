@@ -1,5 +1,3 @@
-Welcome to the Fitness Finder home page! You can find out site running here: [Digital Ocean Deployment](https://fitness-finder.xyz/#/)
-
 
 ## Table of contents
 
@@ -10,6 +8,7 @@ Welcome to the Fitness Finder home page! You can find out site running here: [Di
 * [Development History](#development-history)
 * [Organization](#organization)
 * [Team](#team)
+
 ## Overview
 
 
@@ -32,13 +31,13 @@ Fitness Finder is a website that UH students can use to find fitness-related act
 
 The first thing users see when using the URL for the site.
 
-![](images/landingpage3.png)
+![](images/LandingPage.png)
 
 ### Profile page
 
 The profiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. Users have the ability to filter through profiles based on one or more interests.
 
-![](images/profilespage3.png)
+![](images/Profiles.png)
 
 ### Your Profile page
 
@@ -50,7 +49,7 @@ After creating their profile, your profile page shows your current profile, and 
 
 Find a session page shows sessions that are available to join. Users can see a description of the session, who made the session, any participants for that session, and are able to join sessions from this page.
 
-![](images/SessionPage2.png)
+![](images/Sessions.png)
 
 ### Add a session
 
@@ -83,9 +82,18 @@ If everything is good, the application will appear at [http://localhost:3000](ht
 
 
 
-## Deployment:
+### Deployment:
 
 Our App can be accessed [here](https://fitness-finder.xyz/#/). While still in progress this is our most current version.
+
+### Continuous Integration
+![ci-badge](https://github.com/fitness-finder/fitness-finder/workflows/ci-fitness-finder/badge.svg)
+
+Fitness Finder uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/fitness-finder/fitness-finder/actions](https://github.com/fitness-finder/fitness-finder/actions).
+
+The workflow definition file is quite simple and is located at
+[.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/master/.github/workflows/ci.yml).
+
 
 ## Development History
 

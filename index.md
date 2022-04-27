@@ -36,7 +36,7 @@ The first thing users see when using the URL for the site.
 
 ### Profile page
 
-The profiiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. Users have the ability to filter through profiles based on one or more interests.
+The profiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. Users have the ability to filter through profiles based on one or more interests.
 
 ![](images/profilespage3.png)
 
@@ -110,7 +110,7 @@ The following sections document the development history of fitness finder.
 
 ## Example enhancements
 
-* Implement a text mesasge interface
+* Implement a text message interface
 * Implement an “I’m feeling lucky button” where the user is given a random public session as a suggestion for a given time
 * When creating a workout session the creator has an option to make it public or private, allowing them to choose who can see it or not
 

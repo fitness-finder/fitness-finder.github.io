@@ -47,6 +47,12 @@ After creating their profile, your profile page shows your current profile, and 
 
 ![](images/yourprofile5.11.png)
 
+### Your Sessions page
+
+This page shows which sessions you have created, and which sessions you have joined.
+
+![](images/YourSessionsPage.png)
+
 ### Find a session page
 
 Find a session page shows sessions that are available to join. Users can see a description of the session, who made the session, any participants for that session, and are able to join sessions from this page.

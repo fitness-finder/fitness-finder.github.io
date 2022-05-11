@@ -8,6 +8,7 @@
 * [Deployment](#deployment)
 * [Development History](#development-history)
 * [Organization](#organization)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 ## Overview
@@ -32,31 +33,43 @@ Fitness Finder is a website that UH students can use to find fitness-related act
 
 The first thing users see when using the URL for the site.
 
-![](images/LandingPage.png)
+![](images/landingpage5.11.png)
 
 ### Profile page
 
-The profiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. Users have the ability to filter through profiles based on one or more interests.
+The profiles page shows user profiles and shows their interest, their associated sessions, and which sessions they have joined. 
 
-![](images/Profiles.png)
+![](images/profilespage5.11.png)
 
 ### Your Profile page
 
 After creating their profile, your profile page shows your current profile, and is capable of updating your profile.
 
-![](images/profileupdatepage3.png)
+![](images/yourprofile5.11.png)
 
 ### Find a session page
 
 Find a session page shows sessions that are available to join. Users can see a description of the session, who made the session, any participants for that session, and are able to join sessions from this page.
 
-![](images/Sessions.png)
+![](images/sessions5.11.png)
 
 ### Add a session
 
 Add a session page allows users to create their own session.
 
-![](images/AddSessionPage3.png)
+![](images/addsession5.11.png)
+
+### Your Sessions
+
+This page displays a users sessions, both joined and created. Also provides functionality to un-join and delete sessions.
+
+![](images/yoursessions5.11.png)
+
+### Filter Profiles
+
+This page filters profiles by interests.
+
+![](images/filterprofiles5.11.png)
 
 
 
@@ -116,6 +129,22 @@ The following sections document the development history of fitness finder.
 [M2 Project Board](https://github.com/fitness-finder/fitness-finder/projects/2)
 ### Milestone 3: Final touches
 [M3 Project Board](https://github.com/fitness-finder/fitness-finder/projects/3)
+
+## Community Feedback
+
+Upon the finishing stages of the application we asked our peers within the University of Hawaii to review our app. Below are some quotes from our peers.
+
+"Wow! That's neat that you made that for a class. I would love to use this website. I did have other interests then where listed, maybe add more interests."
+
+"Looks nice maybe I should switch majors, Id love to learn how to make website."
+
+"Is there a way you could make adding a profile picture easier? I dont really know how to add a url picture."
+
+"If you keep updating this website I could really see it getting used by UH students. Good work so far!"
+
+"The cards should be center justified not left, same for sessions. The front page makes it seem like there should be links on the rollover ones but its just quotes"
+
+The community feedback presented here will further help the development of this web app.
 
 ## Example enhancements
 
